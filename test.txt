@@ -1,0 +1,3 @@
+apt install tmux fzf iftop htop tldr ncdu
+
+
